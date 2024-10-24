@@ -1,1 +1,1 @@
-# crush.github.io/index.html
+# crush.github.io
